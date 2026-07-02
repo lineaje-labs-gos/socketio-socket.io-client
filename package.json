@@ -1,6 +1,6 @@
 {
   "name": "socket.io-client",
-  "version": "3.1.3",
+  "version": "3.1.3-lineaje-01",
   "keywords": [
     "realtime",
     "framework",
@@ -94,11 +94,15 @@
     {
       "name": "Einar Otto Stangvik",
       "email": "einaros@gmail.com"
+    },
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/socketio/socket.io-client.git"
+    "url": "https://github.com/lineaje-labs-gos/socketio-socket.io-client"
   },
   "license": "MIT",
   "engines": {
